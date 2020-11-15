@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petals Around The Rose", "Petals Around The Rose\Petals Around The Rose.csproj", "{A427ABC6-0CCE-4374-A0CF-766FBD52C26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A427ABC6-0CCE-4374-A0CF-766FBD52C26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A427ABC6-0CCE-4374-A0CF-766FBD52C26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A427ABC6-0CCE-4374-A0CF-766FBD52C26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A427ABC6-0CCE-4374-A0CF-766FBD52C26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20503DAD-6557-4E69-AA10-EB4163968A75}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/am0779663
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Petals\u0020Around\u0020The\u0020Rose\\Petals\u0020Around\u0020The\u0020Rose.csproj
+		SccProjectName1 = Petals\u0020Around\u0020The\u0020Rose
+		SccLocalPath1 = Petals\u0020Around\u0020The\u0020Rose
+	EndGlobalSection
+EndGlobal
